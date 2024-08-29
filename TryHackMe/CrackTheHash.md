@@ -9,16 +9,21 @@ link: [https://tryhackme.com/r/room/crackthehash](https://tryhackme.com/r/room/c
 
 ![](CrackTheHash.png)
 
+**Answer: easy**
 
 - CBFDAC6008F9CAB4083784CBD1874F76618D2A97 
 
 
 ![[Captura desde 2024-08-29 18-39-17.png]]
 
+**Answer: password123**
+
 - 1C8BFE8F801D79745C4631D09FFF36C82AA37FC4CCE4FC946683D7B336B63032
 
 
 ![[Captura desde 2024-08-29 18-39-59.png]]
+
+**Answer: letmein**
 
 - $2y$12$Dwt1BZj6pcyc3Dy1FWZ5ieeUznr71EeNkJkUlypTsgbX1H68wsRom
 
@@ -27,10 +32,13 @@ link: [https://tryhackme.com/r/room/crackthehash](https://tryhackme.com/r/room/c
 
 ![[Captura desde 2024-08-29 18-47-21.png]]
 
+**Answer: bleh**
+
 - 279412f945939ba78ce0758d3fd83daa
 
 ![[Captura desde 2024-08-29 18-48-33.png]]
 
+**Answer: Eternity22**
 
 ### Task 2
 
@@ -38,14 +46,22 @@ link: [https://tryhackme.com/r/room/crackthehash](https://tryhackme.com/r/room/c
 
 ![[Captura desde 2024-08-29 18-50-52.png]]
 
+**Answer: paule**
+
 - 1DFECA0C002AE40B8619ECF94819CC1B
 
 ![[Captura desde 2024-08-29 18-54-16.png]]
+
+**Answer: n63umy8lkf4i**
 
 - `$6$aReallyHardSalt$6WKUTqzq.UQQmrm0p/T7MPpMbGNnzXPMAXi4bJMl9be.cfi3/qxIf.hsGpS41`
 
 ![[Captura desde 2024-08-29 19-46-37.png]]
 
+**Answer: waka99**
+
 - e5d8870e5bdd26602cab8dbe07a942c8669e56d6
 
 ![[Captura desde 2024-08-29 19-45-46.png]]
+
+**Answer: 481616481616**
