@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "41036500b597765e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a328f12b307f5707",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d225c4016b6015d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brute It.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ff89ff744fd8fdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4efaf33bd0ade486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82dce4c2cd26f060",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f6332d7388e26c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0c4e82e891c9d9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd0b1af469c27c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "72698906b740f329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb887ebd2ccd3a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Brute It.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfeee8d14e89e402",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Brute It.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72f2b7d8174294b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d4b03cd3155b3cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Brute It.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d225c4016b6015d1",
+  "lastOpenFiles": [
+    "Captura desde 2024-09-02 20-03-25.png",
+    "Captura desde 2024-09-02 20-00-44.png",
+    "Captura desde 2024-09-02 19-56-19.png",
+    "Captura desde 2024-09-02 19-54-06.png",
+    "Captura desde 2024-09-02 19-47-34.png",
+    "Captura desde 2024-09-02 19-43-39.png",
+    "Captura desde 2024-09-02 19-30-22.png",
+    "Captura desde 2024-09-02 19-25-57.png",
+    "Captura desde 2024-09-02 19-25-20.png",
+    "Captura desde 2024-09-02 19-16-18.png",
+    "Captura desde 2024-09-02 18-42-10.png",
+    "PicoCTF/Scan Surprise.md",
+    "Brute It.md",
+    "PicoCTF/Verify.md",
+    "PicoCTF/images",
+    "TryHackMe/CrackTheHash.md",
+    "TryHackMe/Ignite.md",
+    "PicoCTF",
+    "TryHackMe/c4ptur3-th3-fl4g.md",
+    "README.md",
+    "Untitled.canvas",
+    "Ignite",
+    "TryHackMe/images"
+  ]
+}

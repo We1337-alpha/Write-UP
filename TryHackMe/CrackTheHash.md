@@ -1,4 +1,4 @@
-## Crack the hash
+## CrackTheHash
 
 link: [https://tryhackme.com/r/room/crackthehash](https://tryhackme.com/r/room/crackthehash)
 
