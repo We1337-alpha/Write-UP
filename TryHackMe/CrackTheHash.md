@@ -1,5 +1,3 @@
-## CrackTheHash
-
 link: [https://tryhackme.com/r/room/crackthehash](https://tryhackme.com/r/room/crackthehash)
 
 ### Task 1

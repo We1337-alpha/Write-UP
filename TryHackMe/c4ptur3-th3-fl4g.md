@@ -1,5 +1,3 @@
-## c4ptur3-th3-fl4g
-
 link: [https://tryhackme.com/r/room/c4ptur3th3fl4g](https://tryhackme.com/r/room/c4ptur3th3fl4g)
 
 - c4n y0u c4p7u23 7h3 f149?
