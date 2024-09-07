@@ -1,9 +1,6 @@
-link: [https://tryhackme.com/r/room/crackthehash](https://tryhackme.com/r/room/crackthehash)
-
 ### Task 1
 
 - 48bb6e862e54f2a795ffc4e541caed4d
-
 
 ![](CrackTheHash.png)
 
@@ -11,20 +8,17 @@ link: [https://tryhackme.com/r/room/crackthehash](https://tryhackme.com/r/room/c
 
 - CBFDAC6008F9CAB4083784CBD1874F76618D2A97 
 
-
 ![[Captura desde 2024-08-29 18-39-17.png]]
 
 **Answer: password123**
 
 - 1C8BFE8F801D79745C4631D09FFF36C82AA37FC4CCE4FC946683D7B336B63032
 
-
 ![[Captura desde 2024-08-29 18-39-59.png]]
 
 **Answer: letmein**
 
 - $2y$12$Dwt1BZj6pcyc3Dy1FWZ5ieeUznr71EeNkJkUlypTsgbX1H68wsRom
-
 
 ![[Captura desde 2024-08-29 18-42-18.png]]
 

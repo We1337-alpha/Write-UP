@@ -1,5 +1,3 @@
-# Scan Surprise
-
 ```python
 import cv2
 from pyzbar.pyzbar import decode
@@ -32,4 +30,4 @@ cv2.destroyAllWindows()
 ```
 
 
-**Answer: `picoCTF{p33k_@_b00_7843f77c}`**
+**flag: `picoCTF{p33k_@_b00_7843f77c}`**
