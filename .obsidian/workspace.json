@@ -11,8 +11,12 @@
             "id": "47b65e8367f241c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VulnHub/BadStore 1 2 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd0b1af469c27c28",
@@ -145,8 +148,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82dce4c2cd26f060",
+  "active": "47b65e8367f241c5",
   "lastOpenFiles": [
+    "README.md",
+    "VulnHub/BadStore 1 2 3.md",
     "VulnHub/images/Captura desde 2024-09-13 18-24-07.png",
     "VulnHub/images/Captura desde 2024-09-13 18-22-42.png",
     "VulnHub/images/Captura desde 2024-09-13 18-21-24.png",
@@ -157,9 +162,7 @@
     "VulnHub/images/Captura desde 2024-09-13 18-13-02.png",
     "VulnHub/images/Captura desde 2024-09-13 17-44-05.png",
     "VulnHub/images/Captura desde 2024-09-13 17-09-01.png",
-    "VulnHub/images/Captura desde 2024-09-13 17-08-51.png",
     "VulnHub/images",
-    "VulnHub/BadStore 1 2 3.md",
     "VulnHub",
     "TryHackMe/Advent of Cyber 1 - 2019.md",
     "TryHackMe/Resource/Christmas Scripting.md",
