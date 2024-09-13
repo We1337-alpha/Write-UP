@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "157331d2ff3c0521",
+        "id": "dc52508868011c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "aeeddb990f693eb2",
+            "id": "47b65e8367f241c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Crack the hash.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "414dcbf27d929aca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OhSINT.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd0b1af469c27c28",
@@ -98,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OhSINT.md",
+                "file": "VulnHub/BadStore 1 2 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OhSINT.md",
+                "file": "VulnHub/BadStore 1 2 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OhSINT.md"
+                "file": "VulnHub/BadStore 1 2 3.md"
               }
             }
           }
@@ -161,54 +145,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "414dcbf27d929aca",
+  "active": "82dce4c2cd26f060",
   "lastOpenFiles": [
-    "Captura desde 2024-09-12 14-27-05.png",
-    "Captura desde 2024-09-12 14-21-25.png",
-    "Captura desde 2024-09-12 14-07-54 2.png",
-    "Captura desde 2024-09-12 14-07-54 1.png",
-    "Captura desde 2024-09-12 14-19-32.png",
-    "Captura desde 2024-09-12 14-19-07.png",
-    "Captura desde 2024-09-12 14-18-32.png",
-    "Captura desde 2024-09-12 14-07-54.png",
-    "Captura desde 2024-09-12 14-07-30.png",
-    "Captura desde 2024-09-12 14-04-50.png",
-    "Captura desde 2024-09-12 14-03-39.png",
-    "TryHackMe/Crack the hash.md",
-    "OhSINT.md",
+    "VulnHub/images/Captura desde 2024-09-13 18-24-07.png",
+    "VulnHub/images/Captura desde 2024-09-13 18-22-42.png",
+    "VulnHub/images/Captura desde 2024-09-13 18-21-24.png",
+    "VulnHub/images/Captura desde 2024-09-13 18-20-10.png",
+    "VulnHub/images/Captura desde 2024-09-13 18-15-15.png",
+    "VulnHub/images/Captura desde 2024-09-13 18-14-53.png",
+    "VulnHub/images/Captura desde 2024-09-13 18-14-30.png",
+    "VulnHub/images/Captura desde 2024-09-13 18-13-02.png",
+    "VulnHub/images/Captura desde 2024-09-13 17-44-05.png",
+    "VulnHub/images/Captura desde 2024-09-13 17-09-01.png",
+    "VulnHub/images/Captura desde 2024-09-13 17-08-51.png",
+    "VulnHub/images",
+    "VulnHub/BadStore 1 2 3.md",
+    "VulnHub",
     "TryHackMe/Advent of Cyber 1 - 2019.md",
-    "TryHackMe/Wgel CTF.md",
-    "TryHackMe/U.A. High School.md",
+    "TryHackMe/Resource/Christmas Scripting.md",
+    "CTF/Haruul Zangi 2024/images",
+    "CTF/Haruul Zangi 2024/need help.md",
+    "CTF/Haruul Zangi 2024",
+    "TryHackMe/Resource/Set owner User ID up on execution.md",
+    "Set owner User ID up on execution.md",
     "TryHackMe/Resource/Challenge 5.md",
     "TryHackMe/Resource/Challenge Day 4.md",
+    "TryHackMe/Resource/Networking.md",
+    "HackTricks/Bypassing BitLocker Encryption.md",
+    "HackTricks/Handling Windows Security Features.md",
+    "HackTricks/Live CD-USB for System Access.md",
+    "HackTricks/Direct Memory Access (DMA) Attacks.md",
+    "HackTricks/UEFI Security.md",
+    "HackTricks/RAM Analysis and Cold Boot Attacks.md",
+    "HackTricks/BIOS Password Recovery and System Security.md",
+    "Info/Linux.md",
+    "HackTricks",
+    "Info/Name of common protocols.md",
+    "TryHackMe/Ignite.md",
+    "TryHackMe/Library.md",
+    "TryHackMe/Mr Robot CTF.md",
+    "TryHackMe/Ninja Skills.md",
+    "TryHackMe/OhSINT.md",
+    "TryHackMe/Crack the hash.md",
+    "OhSINT.md",
     "Info/images",
     "Info",
-    "Info/Linux.md",
-    "TryHackMe/Thompson.md",
-    "TryHackMe/Ninja Skills.md",
-    "TryHackMe/Mr Robot CTF.md",
-    "TryHackMe/Library.md",
-    "TryHackMe/EasyCTF.md",
-    "TryHackMe/DVWA.md",
-    "TryHackMe/Brute It.md",
-    "TryHackMe/Basic Pentesting.md",
-    "TryHackMe/Anonforce.md",
-    "TryHackMe/Resource/Evil Elf - Wireshark and Password Cracking.md",
-    "README.md",
-    "PicoCTF/Time Machine.md",
-    "TryHackMe/Resource/Christmas Challenge Day 2.md",
-    "TryHackMe/Resource/Web Challenge 1 Supporting Material.md",
     "TryHackMe/Resource",
-    "OverTheWire/Bandit/Bandit Level 6.md",
-    "OverTheWire/Bandit/Bandit Level 5.md",
-    "OverTheWire/Bandit/Bandit Level 4.md",
     "CTF/snakeCTF 2024 Quals/images",
     "CTF/snakeCTF 2024 Quals",
-    "CTF/WMCTF 2024/images",
-    "CTF/WMCTF 2024",
-    "Blame Game",
-    "Google-Fu/images",
-    "Google-Fu",
     "Untitled.canvas"
   ]
 }

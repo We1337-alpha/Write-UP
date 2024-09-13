@@ -153,15 +153,167 @@ reverse image search
 
 # Day 6 Data Elf-iltration
 
+![[Captura desde 2024-09-12 18-50-45.png]]
 
+![[Captura desde 2024-09-12 18-47-50.png]]
 
+![[Captura desde 2024-09-12 18-48-37.png]]
+
+**flag: `Candy Cane Serial Number 8491`**
+
+File -> Export Objects -> HTTP choose object and save it in file
+
+![[Captura desde 2024-09-12 18-53-11.png]]
+
+```bash
+fcrackzip -b --method 2 -D -p /usr/share/wordlists/rockyou.txt -v christmaslists.zip
+```
+
+![[Captura desde 2024-09-12 19-00-47.png]]
+
+Password: `december`
+
+![[Captura desde 2024-09-12 19-04-19.png]]
+
+![[Captura desde 2024-09-12 19-05-16.png]]
+
+**flag: `PenTester`**
+
+```bash
+stegcracked TryHackMe.jpg /usr/share/wordlists/rockyou.txt
+```
+
+![[Captura desde 2024-09-12 19-08-54.png]]
+
+![[Captura desde 2024-09-12 19-10-21.png]]
+
+![[Captura desde 2024-09-12 19-10-48.png]]
+
+**flag: `RFC527`**
 # Day 7 Skilling Up
+
+```bash
+nmap -p 1-999 0.0.0.0
+```
+
+![[Captura desde 2024-09-12 18-32-02.png]]
+
+**flag: `3`**
+
+```bash
+sudo nmap -O 0.0.0.0
+```
+
+![[Captura desde 2024-09-12 18-34-24.png]]
+
+**flag: `Linux`**
+
+```bash
+nmap -sV 0.0.0.0
+```
+
+![[Captura desde 2024-09-12 18-40-43.png]]
+
+**flag: `7.4`**
+
+```bash
+nmap -sV 0.0.0.0
+```
+
+![[Captura desde 2024-09-12 18-40-43 1.png]]
+
+```bash
+http:0.0.0.0:999/
+```
+
+![[Captura desde 2024-09-12 18-44-16.png]]
+
+**flag: `interesting.file`**
 
 # Day 8 SUID Shenanigans
 
+```bash
+sudo nmap -p 1-65535 -T4 -Pn 0.0.0.0
+```
+
+![[Captura desde 2024-09-13 00-48-46.png]]
+
+**flag: `65534`**
+
+```bash
+find / -perm /4000 -type f -exec ls {} \; 2>/dev/null;
+```
+
+![[Captura desde 2024-09-12 21-33-14.png]]
+
+```bash
+find /home/igor -name "flag1.txt" -exec cat {} \;
+```
+
+![[Captura desde 2024-09-12 21-32-51.png]]
+
+**flag: `THM{d3f0708bdd9accda7f937d013eaf2cd8}`**
+
+```bash
+find / -user root -perm /4000 -exec s -ldb {} \; 2>/dev/null | grep "bin"
+```
+
+![[Captura desde 2024-09-12 23-36-33.png]]
+
+```bash
+system-control
+```
+
+![[Captura desde 2024-09-12 23-35-43.png]]
+
+**flag: `THM{8c8211826239d849fa8d6df03749c3a2}`**
+
 # Day 9 Requests
 
+```python
+import requests
+
+# Starting URL and base IP
+ip = "http://10.10.169.100:3000"
+path = "/"
+
+# Initialize an empty string to store the flag
+flag = ""
+
+# Loop until the "value" is 'end'
+while True:
+    # Send a request to the current path
+    response = requests.get(ip + path)
+
+    # Get the JSON data from the response
+    data = response.json()
+
+    # Get the value and next step
+    value = data['value']
+    next_path = data['next']
+
+    # Break the loop if value is 'end'
+    if value == "end":
+        break
+
+    # Append the current value to the flag
+    flag += value
+
+    # Update the path for the next request
+    path = f"/{next_path}"
+
+# Print the collected flag
+print(f"Flag: {flag}")
+```
+
+![[Captura desde 2024-09-13 11-51-58.png]]
+
+**flag: `sCrIPtKiDd`**
+
 # Day 10 Metasploit-a-ho-ho-ho
+
+
+
 
 # Day 11 Elf Applications
 
