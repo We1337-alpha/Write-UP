@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d9e6f134ad46959",
+        "id": "84dae8631279fbee",
         "type": "tabs",
         "children": [
           {
-            "id": "aee542985474b51f",
+            "id": "c70225ae8d189146",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/c4ptur3-th3-fl4g.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/c4ptur3-th3-fl4g.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/c4ptur3-th3-fl4g.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TryHackMe/c4ptur3-th3-fl4g.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,10 +140,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aee542985474b51f",
+  "active": "c70225ae8d189146",
   "lastOpenFiles": [
-    "TryHackMe/Brute It.md",
+    "Windows Fundamentals 2.md",
+    "TryHackMe/Windows Fundamentals 2.md",
+    "TryHackMe/images/Captura desde 2024-09-16 20-57-12.png",
+    "TryHackMe/images/Captura desde 2024-09-16 20-42-59.png",
+    "TryHackMe/images/Captura desde 2024-09-16 20-41-14.png",
+    "TryHackMe/images/Captura desde 2024-09-16 20-30-30.png",
+    "TryHackMe/images/Captura desde 2024-09-16 20-25-08.png",
+    "TryHackMe/images/Captura desde 2024-09-16 20-23-57.png",
+    "TryHackMe/images/Captura desde 2024-09-16 20-15-36.png",
+    "TryHackMe/images/Captura desde 2024-09-16 19-58-13.png",
+    "TryHackMe/images/Captura desde 2024-09-16 19-56-18.png",
+    "TryHackMe/images/Captura desde 2024-09-16 19-52-23.png",
     "TryHackMe/Blaster.md",
+    "Tools/Tools.md",
+    "Tools",
+    "TryHackMe/c4ptur3-th3-fl4g.md",
+    "TryHackMe/Brute It.md",
     "TryHackMe/Basic Pentesting.md",
     "TryHackMe/Anonforce.md",
     "TryHackMe/Advent of Cyber 1 - 2019.md",
@@ -171,21 +178,7 @@
     "TryHackMe/Resource/Evil Elf - Wireshark and Password Cracking.md",
     "TryHackMe/Resource/Christmas Scripting.md",
     "TryHackMe/Resource/Christmas Challenge Day 2.md",
-    "Captura desde 2024-09-16 00-54-30.png",
-    "Captura desde 2024-09-15 21-57-19.png",
-    "TryHackMe/images/Captura desde 2024-09-15 18-45-54.png",
-    "TryHackMe/images/Captura desde 2024-09-15 18-45-22.png",
-    "TryHackMe/images/Captura desde 2024-09-15 18-44-39.png",
-    "TryHackMe/images/Captura desde 2024-09-15 18-36-57 1.png",
-    "TryHackMe/images/Captura desde 2024-09-15 18-36-57.png",
-    "TryHackMe/images/Captura desde 2024-09-15 18-35-36.png",
-    "TryHackMe/images/Captura desde 2024-09-15 18-31-00 1.png",
-    "TryHackMe/images/Captura desde 2024-09-15 18-31-00.png",
     "VulnHub/De-ICE S1-100.md",
-    "Info/Name of common protocols.md",
-    "Info/Linux.md",
-    "OverTheWire/Bandit/Bandit Level 2.md",
-    "OverTheWire/Bandit/Bandit Level 1.md",
     "VulnHub/images",
     "VulnHub",
     "CTF/Haruul Zangi 2024/images",
@@ -195,7 +188,6 @@
     "Info",
     "TryHackMe/Resource",
     "CTF/snakeCTF 2024 Quals/images",
-    "CTF/snakeCTF 2024 Quals",
     "Untitled.canvas"
   ]
 }
