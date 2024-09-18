@@ -241,7 +241,7 @@ sudo nmap -p 1-65535 -T4 -Pn 0.0.0.0
 **flag: `65534`**
 
 ```bash
-find / -perm /4000 -type f -exec ls {} \; 2>/dev/null;
+find / -perm /4000 -type f -exec ls -l {} \; 2>/dev/null;
 ```
 
 ![[Captura desde 2024-09-12 21-33-14.png]]
