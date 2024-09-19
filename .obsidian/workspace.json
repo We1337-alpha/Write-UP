@@ -11,8 +11,12 @@
             "id": "cb735dad3843c4ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Info/Name of common protocols.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 364.5
   },
   "right": {
     "id": "cd0b1af469c27c28",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Info/Name of common protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Info/Name of common protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Info/Name of common protocols.md"
+              }
             }
           }
         ],
@@ -142,6 +150,7 @@
   },
   "active": "cb735dad3843c4ba",
   "lastOpenFiles": [
+    "PicoCTF/CanYouSee.md",
     "TryHackMe/Advent of Cyber 1 - 2019.md",
     "Jack-of-All-Trades.md",
     "TryHackMe/Jack-of-All-Trades.md",
@@ -177,7 +186,6 @@
     "TryHackMe/Resource/Evil Elf - Wireshark and Password Cracking.md",
     "TryHackMe/Resource/Networking.md",
     "TryHackMe/Resource/Set owner User ID up on execution.md",
-    "TryHackMe/Resource/Web Challenge 1 Supporting Material.md",
     "Tools",
     "VulnHub/images",
     "VulnHub",
