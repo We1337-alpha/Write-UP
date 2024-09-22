@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "cd0b1af469c27c28",
@@ -151,17 +150,17 @@
   },
   "active": "46ce6eb258716a0f",
   "lastOpenFiles": [
-    "Captura desde 2024-09-22 13-10-09.png",
-    "Captura desde 2024-09-22 13-09-35.png",
-    "Captura desde 2024-09-22 13-08-20.png",
-    "Captura desde 2024-09-22 13-06-56.png",
-    "Captura desde 2024-09-22 13-05-36.png",
-    "Captura desde 2024-09-22 13-04-45.png",
-    "Captura desde 2024-09-22 13-03-59.png",
-    "Captura desde 2024-09-22 13-03-28.png",
-    "Captura desde 2024-09-22 11-36-35.png",
-    "Captura desde 2024-09-22 11-32-32.png",
-    "Captura desde 2024-09-22 02-44-16.png",
+    "TryHackMe/images/Captura desde 2024-09-22 13-10-09.png",
+    "TryHackMe/images/Captura desde 2024-09-22 13-09-35.png",
+    "TryHackMe/images/Captura desde 2024-09-22 13-08-20.png",
+    "TryHackMe/images/Captura desde 2024-09-22 13-06-56.png",
+    "TryHackMe/images/Captura desde 2024-09-22 13-05-36.png",
+    "TryHackMe/images/Captura desde 2024-09-22 13-04-45.png",
+    "TryHackMe/images/Captura desde 2024-09-22 13-03-59.png",
+    "TryHackMe/images/Captura desde 2024-09-22 13-03-28.png",
+    "TryHackMe/images/Captura desde 2024-09-22 11-36-35.png",
+    "TryHackMe/images/Captura desde 2024-09-22 11-32-32.png",
+    "TryHackMe/images/Captura desde 2024-09-22 02-44-16.png",
     "TryHackMe/Forensic Imaging.md",
     "TryHackMe/Simple CTF.md",
     "Info/Name of common protocols.md",
