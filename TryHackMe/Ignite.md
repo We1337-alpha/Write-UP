@@ -9,13 +9,8 @@ sudo nmap 0.0.0.0 -F -sV
 dirb http://0.0.0.0 > output.txt
 ```
 
-```bash
-script /dev/null -c bash
 
-```
-
-
-
+![[Captura desde 2024-09-22 02-44-16.png]]
 
 Exploit: [https://github.com/AssassinUKG/fuleCMS](https://github.com/AssassinUKG/fuleCMS)
 
