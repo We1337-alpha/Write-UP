@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0e5dcc672244d0a6",
+        "id": "419a31478ac9ef68",
         "type": "tabs",
         "children": [
           {
-            "id": "29d62b035d0edf7c",
+            "id": "5ab3eb4fd91cd611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I'm a dump.md",
+                "file": "create_symlink.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "56741fa262b3fc37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snowboard.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5a13b68336ed3ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PikesPeak.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf63b5e0440b764d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lazy Game Challenge.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd0b1af469c27c28",
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lazy Game Challenge.md",
+                "file": "create_symlink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lazy Game Challenge.md",
+                "file": "create_symlink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lazy Game Challenge.md"
+                "file": "create_symlink.md"
               }
             }
           }
@@ -185,44 +149,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf63b5e0440b764d",
+  "active": "5ab3eb4fd91cd611",
   "lastOpenFiles": [
-    "Captura desde 2024-09-25 02-09-50.png",
-    "Pasted image 20240925020834.png",
-    "Captura desde 2024-09-25 02-08-09.png",
-    "Lazy Game Challenge.md",
-    "PikesPeak.md",
-    "Captura desde 2024-09-25 01-37-30.png",
-    "Snowboard.md",
-    "Captura desde 2024-09-25 01-28-24.png",
-    "Pasted image 20240925012754.png",
-    "Captura desde 2024-09-25 01-27-24.png",
-    "I'm a dump.md",
-    "Captura desde 2024-09-25 01-10-53.png",
-    "CTFLearn/Morse Code.md",
-    "CTFLearn/My Blog.md",
-    "CTFLearn/Practice Flag.md",
-    "CTFLearn/Reverse Polarity.md",
-    "CTFLearn/Rubber Duck.md",
-    "CTFLearn/WOW.... So Meta.md",
-    "CTFLearn/Wikipedia.md",
-    "CTFLearn/Where Can My Robot Go?.md",
-    "CTFLearn/Vigenere Cipher.md",
-    "CTFLearn/Binwalk.md",
-    "CTFLearn/Basic Injection.md",
-    "CTFLearn/Base 2 2 the 6.md",
-    "Simple Programming.md",
-    "CTFLearn/Simple Programming.md",
-    "CTFLearn/QR Code.md",
-    "CTFLearn/HyperStream Test 2.md",
-    "CTFLearn/Git Is Good.md",
-    "CTFLearn/Exif.md",
-    "CTFLearn/BruXOR.md",
-    "CTFLearn/images/Captura desde 2024-09-25 00-58-01.png",
-    "CTFLearn/images/Captura desde 2024-09-24 23-01-41.png",
-    "CTFLearn/images/Captura desde 2024-09-24 23-00-09.png",
-    "My Blog.md",
-    "Git Is Good.md",
+    "create_symlink.md",
+    "move_file.md",
+    "Captura desde 2024-09-26 07-04-23.png",
+    "copy_file.md",
+    "Captura desde 2024-09-26 07-01-53.png",
+    "create_directory.md",
+    "Captura desde 2024-09-26 06-59-10.png",
+    "create_file.md",
+    "last _lines.md",
+    "print_file_contents.md",
+    "list_files.md",
+    "current_working_directory.md",
+    "hello_world.md",
+    "Captura desde 2024-09-26 06-54-44.png",
+    "Captura desde 2024-09-26 06-51-47.png",
+    "Captura desde 2024-09-26 06-48-34.png",
+    "Captura desde 2024-09-26 06-44-02.png",
+    "Captura desde 2024-09-26 06-42-58.png",
+    "Captura desde 2024-09-26 06-40-27.png",
+    "VulnHub/images/Captura desde 2024-09-25 23-58-27.png",
+    "Command Challenge/images",
+    "Command Challenge",
+    "VulnHub/De-ICE S1-110.md",
+    "CTFLearn/Tux!.md",
+    "CTFLearn/Time Traveller.md",
+    "CTFLearn/Suspecious message.md",
+    "CTFLearn/Snowboard.md",
+    "CTFLearn/Simple Steganography.md",
+    "CTFLearn/PikesPeak.md",
+    "CTFLearn/Pho Is Tasty!.md",
+    "CTFLearn/PDF by fdpumyp.md",
+    "CTFLearn/Modern Gaius Julius Caesar.md",
+    "CTFLearn/Lazy Game Challenge.md",
+    "CTFLearn/I'm a dump.md",
+    "CTFLearn/Gobustme ?.md",
+    "CTFLearn/Chalkboard.md",
+    "Simple Steganography.md",
+    "PDF by fdpumyp.md",
     "CTFLearn/images",
     "CTFLearn",
     "Tools",
@@ -231,8 +197,6 @@
     "CTF/Haruul Zangi 2024/images",
     "CTF/Haruul Zangi 2024",
     "HackTricks",
-    "Info/images",
-    "Info",
     "Untitled.canvas"
   ]
 }
