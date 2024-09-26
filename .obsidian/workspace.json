@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ab3eb4fd91cd611",
+            "id": "b3bcc2e457f9e473",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "create_symlink.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd0b1af469c27c28",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create_symlink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create_symlink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "create_symlink.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,46 +140,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ab3eb4fd91cd611",
+  "active": "b3bcc2e457f9e473",
   "lastOpenFiles": [
-    "create_symlink.md",
-    "move_file.md",
-    "Captura desde 2024-09-26 07-04-23.png",
-    "copy_file.md",
-    "Captura desde 2024-09-26 07-01-53.png",
-    "create_directory.md",
-    "Captura desde 2024-09-26 06-59-10.png",
-    "create_file.md",
-    "last _lines.md",
-    "print_file_contents.md",
-    "list_files.md",
-    "current_working_directory.md",
-    "hello_world.md",
-    "Captura desde 2024-09-26 06-54-44.png",
-    "Captura desde 2024-09-26 06-51-47.png",
-    "Captura desde 2024-09-26 06-48-34.png",
-    "Captura desde 2024-09-26 06-44-02.png",
-    "Captura desde 2024-09-26 06-42-58.png",
-    "Captura desde 2024-09-26 06-40-27.png",
-    "VulnHub/images/Captura desde 2024-09-25 23-58-27.png",
+    "replace_text_in_files.md",
+    "Command Challenge/split_on_a_char.md",
+    "Command Challenge/simple_sort.md",
+    "Command Challenge/search_for_string_in_files_recursive.md",
+    "Command Challenge/search_for_files_containing_string.md",
+    "Command Challenge/search_for_files_by_extension.md",
+    "Command Challenge/replace_text_in_files.md",
+    "Command Challenge/remove_files_with_extension.md",
+    "Command Challenge/print_number_sequence.md",
+    "Command Challenge/print_file_contents.md",
+    "Command Challenge/move_file.md",
+    "Command Challenge/list_files.md",
+    "Command Challenge/last _lines.md",
+    "Command Challenge/hello_world.md",
+    "Command Challenge/find_string_in_a_file.md",
+    "Command Challenge/extract_ip_addresses.md",
+    "Command Challenge/delete_files.md",
+    "Command Challenge/current_working_directory.md",
+    "Command Challenge/create_symlink.md",
+    "Command Challenge/create_file.md",
+    "Command Challenge/create_directory.md",
+    "Command Challenge/count_string_in_line.md",
+    "Command Challenge/count_files.md",
+    "Command Challenge/copy_file.md",
+    "Command Challenge/images/Captura desde 2024-09-26 09-46-51.png",
+    "Command Challenge/images/Captura desde 2024-09-26 09-42-05.png",
+    "Command Challenge/images/Captura desde 2024-09-26 09-39-11.png",
+    "Command Challenge/images/Captura desde 2024-09-26 09-36-06.png",
+    "Command Challenge/images/Captura desde 2024-09-26 09-31-25.png",
+    "Command Challenge/images/Captura desde 2024-09-26 09-21-14.png",
+    "Command Challenge/images/Captura desde 2024-09-26 08-23-49.png",
+    "Command Challenge/images/Captura desde 2024-09-26 08-16-17.png",
+    "Command Challenge/images/Captura desde 2024-09-26 08-13-59.png",
+    "Command Challenge/images/Captura desde 2024-09-26 07-59-04.png",
+    "search_for_files_containing_string.md",
+    "search_for_files_by_extension.md",
     "Command Challenge/images",
     "Command Challenge",
-    "VulnHub/De-ICE S1-110.md",
-    "CTFLearn/Tux!.md",
-    "CTFLearn/Time Traveller.md",
-    "CTFLearn/Suspecious message.md",
-    "CTFLearn/Snowboard.md",
-    "CTFLearn/Simple Steganography.md",
-    "CTFLearn/PikesPeak.md",
-    "CTFLearn/Pho Is Tasty!.md",
-    "CTFLearn/PDF by fdpumyp.md",
-    "CTFLearn/Modern Gaius Julius Caesar.md",
-    "CTFLearn/Lazy Game Challenge.md",
-    "CTFLearn/I'm a dump.md",
-    "CTFLearn/Gobustme ?.md",
-    "CTFLearn/Chalkboard.md",
-    "Simple Steganography.md",
-    "PDF by fdpumyp.md",
     "CTFLearn/images",
     "CTFLearn",
     "Tools",
