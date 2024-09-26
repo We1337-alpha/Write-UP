@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "419a31478ac9ef68",
+        "id": "660ca46ed9f72ff7",
         "type": "tabs",
         "children": [
           {
-            "id": "b3bcc2e457f9e473",
+            "id": "dc7aed2dd374afb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Jupyter 101.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TryHackMe/Jupyter 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TryHackMe/Jupyter 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TryHackMe/Jupyter 101.md"
+              }
             }
           }
         ],
@@ -140,8 +148,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3bcc2e457f9e473",
+  "active": "82dce4c2cd26f060",
   "lastOpenFiles": [
+    "TryHackMe/Jupyter 101.md",
+    "TryHackMe/WebGOAT.md",
     "replace_text_in_files.md",
     "Command Challenge/split_on_a_char.md",
     "Command Challenge/simple_sort.md",
@@ -176,8 +186,6 @@
     "Command Challenge/images/Captura desde 2024-09-26 08-16-17.png",
     "Command Challenge/images/Captura desde 2024-09-26 08-13-59.png",
     "Command Challenge/images/Captura desde 2024-09-26 07-59-04.png",
-    "search_for_files_containing_string.md",
-    "search_for_files_by_extension.md",
     "Command Challenge/images",
     "Command Challenge",
     "CTFLearn/images",
